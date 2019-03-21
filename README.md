@@ -1,4 +1,6 @@
-# 100daysofdscode All Content,Article and Tutorial are found here (medium.com/100daysofdscode)
+# 100daysofdscode All Contents,Articles and Tutorials are found here (medium.com/100daysofdscode).
+
+# Find our Curriculum here (https://github.com/Emekaborisama/100daysofdscode/blob/master/Curriculum.md)
 
 ## 100 Days of Data Science Code
 
