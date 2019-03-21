@@ -19,6 +19,12 @@ Aim: At the end of this code challenge you will be able to
 
 ## P.S This challenge is originally made for Novice and intermediate inspired by Data ScienceNigeria,Siraj Raval, Kaggle, Zindi.Africa and Emeka Boris Ama
 
+## Why you should join us
+*Grow from zero to hero and become an expert in the domain and also certificate will be offered to you on completion of the program with autograph of amazing top contributor to the ecosystem.
+
+## Who is the challenge made for?
+- Beginners, and
+- Intermediate in Data Science
 
 ## Timeframe = 1hours everyday and 5 days in a week
 
