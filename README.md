@@ -6,7 +6,7 @@
 
 ## Hi Folks
 
-## 100 days ds code is a program which aims to grow aspiring Data Scientist from Zero to World Class. It is a one-hour everyday course which promotes the diversity and inclusion vision on teaching Data Science with advanced information and techniques to solve the global challenges and emerging problems, projects and tutorials are student-centric with intellectual and well-experienced instructors. Our syllabus is derived from Siraj Raval Video Content on Learn Data Science in 3 months
+100 days ds code is a program which aims to grow aspiring Data Scientist from Zero to World Class. It is a one-hour everyday course which promotes the diversity and inclusion vision on teaching Data Science with advanced information and techniques to solve the global challenges and emerging problems, projects and tutorials are student-centric with intellectual and well-experienced instructors. Our syllabus is derived from Siraj Raval Video Content on Learn Data Science in 3 months
 
 Aim: At the end of this code challenge you will be able to 
 * 1. Grow from Zero to Hero in Data Science
