@@ -49,37 +49,37 @@
     - Day 34-35. Introduction to Tableau.
     - Project
     
-- ## Week 16 Analytics storytelling
+- ## Week 8 Analytics storytelling
     - Day 36. Data Analytics Story telling
     - Day 37-38. Ethic and laws of Data and Analytics.
     - Day 39-40. Working in an Data oriented company .
     - Project
 
-- ## Week 8 Deep Learning
+- ## Week 9 Deep Learning
     - Day 41. Introduction to deep learning
     - Day 42-43. Introduction to neural networks
     - Day 44-45. Intro to optimization
     - Project
     
-- ## Week 9 Ways to use deep learning to solve a problem
+- ## Week 10 Ways to use deep learning to solve a problem
     -  Project
     
-- ## Week 10- 11 Solve a Kaggle/ Zindi chanllege
+- ## Week 11- 12 Solve a Kaggle/ Zindi chanllege
 
-- ## Week 12 Intro to Database
+- ## Week 13 Intro to Database
     - Day 66. Introduction to Database
     - Day 67-68. SQL, Mongodb and Nosql
     - Day 69-70. Big query & IBM DB Warehouse
    
     
-- ## Week 13 - 14 Hadoop(mapreduce)
+- ## Week 14 - 15 Hadoop(mapreduce)
     - Day 76. Introduction to Hadoop and Mapreduce.
     - Day 77. HDFS and Mapreduce
     - Day 78-79. Write your first mapreduce code
     - Day 80. Mapreduce design pattern
     - Day 71-75. Project
     
-- ## Week 15 Solve a Kaggle / Zindi chanllege
+- ## Week 16 Solve a Kaggle / Zindi chanllege
     -Project
 
 - ## Week 17 Web scraping 
@@ -87,4 +87,4 @@
     - Day 83-85. Webscraping tools
     - Day Project
     
-- ## Week 18 - 19 Solve Kaggle Challenge 
+- ## Week 18 - 20 Solve Kaggle Challenge 
