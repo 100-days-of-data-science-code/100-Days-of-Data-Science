@@ -2,8 +2,9 @@
 
 *All Contents,Articles and Tutorials are found here (medium.com/100daysofdscode).
 
-*Find our Curriculum here (https://github.com/Emekaborisama/100daysofdscode/blob/master/Curriculum.md)
-Hashtag @100daysofdscode
+*Find our Curriculum here (https://github.com/Emekaborisama/100daysofdscode/blob/master/Curriculum.md).
+
+*Hashtag @100daysofdscode
 
 ## Hi Folks
 
