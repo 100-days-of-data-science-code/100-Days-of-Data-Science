@@ -38,7 +38,7 @@
     - Day 25. Machine Learning Workshop 3(Clustering)
     - Project
 
-- Week 6 Solving one Zindi and one Kaggle Challenge( Santander Customer Transaction Prediction, Kaggle Carreer Con)
+- Week 6 Solving Zindi and Kaggle Challenge( Santander Customer Transaction Prediction, Kaggle Carreer Con)
     - Santander Customer Transaction Prediction
     - Predicting Future Sales
     - Data Science Loan Prediction Challenge
@@ -48,13 +48,43 @@
     - Day 32-33. Introduction to excel.
     - Day 34-35. Introduction to Tableau.
     - Project
-
-- Week 8 Deep Learning 
-- Week 9 Ways to use deep learning to solve a problem
-- Week 10 11 Solve a Kaggle/ Zindi chanllege
-- Week 12-13 Intro to Database
-- Week 14 Hadoop(mapreduce)
-- Week 15 Solve a Kaggle / Zindi chanllege
+    
 - Week 16 Analytics storytelling
+    - Day 36. Data Analytics Story telling
+    - Day 37-38. Ethic and laws of Data and Analytics.
+    - Day 39-40. Working in an Data oriented company .
+    - Project
+
+- Week 8 Deep Learning
+    - Day 41. Introduction to deep learning
+    - Day 42-43. Introduction to neural networks
+    - Day 44-45. Intro to optimization
+    - Project
+    
+- Week 9 Ways to use deep learning to solve a problem
+    -  Project
+    
+- Week 10- 11 Solve a Kaggle/ Zindi chanllege
+
+- Week 12 Intro to Database
+    - Day 66. Introduction to Database
+    - Day 67-68. SQL, Mongodb and Nosql
+    - Day 69-70. Big query & IBM DB Warehouse
+   
+    
+- Week 13 - 14 Hadoop(mapreduce)
+    - Day 76. Introduction to Hadoop and Mapreduce.
+    - Day 77. HDFS and Mapreduce
+    - Day 78-79. Write your first mapreduce code
+    - Day 80. Mapreduce design pattern
+    - Day 71-75. Project
+    
+- Week 15 Solve a Kaggle / Zindi chanllege
+    -Project
+
 - Week 17 Web scraping 
-- Week 18 - 20 Solve Kaggle Challenge 
+    - Day 81-82. Intro to webscraping -The Andela way
+    - Day 83-85. Webscraping tools
+    - Day Project
+    
+- Week 18 - 19 Solve Kaggle Challenge 
