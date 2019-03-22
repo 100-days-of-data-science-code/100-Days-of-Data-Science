@@ -1,10 +1,10 @@
 # 100 Days of Data Science code.
 
-*All Contents,Articles and Tutorials are found here (medium.com/100daysofdscode).
+*All Contents,Articles and Tutorials are found here (medium.com/100daysofdscode)*
 
-*Find our Curriculum here (https://github.com/Emekaborisama/100daysofdscode/blob/master/Curriculum.md).
+*Find our Curriculum here (https://github.com/Emekaborisama/100daysofdscode/blob/master/Curriculum.md)*
 
-*Hashtag @100daysofdscode
+*Hashtag @100daysofdscode*
 
 ## Hi Folks
 
@@ -21,10 +21,10 @@ Aim: At the end of this code challenge you will be able to
 *  Web Scraping
 
 
-## P.S This challenge is originally made for Novice and intermediate inspired by Data ScienceNigeria,Siraj Raval, Kaggle, Zindi.Africa and Emeka Boris Ama
+*P.S This challenge is originally made for Novice and intermediate inspired by Data ScienceNigeria,Siraj Raval, Kaggle, Zindi.Africa and Emeka Boris Ama*
 
 ## Why you should join us
-*Grow from zero to hero and become an expert in the domain and also certificate will be offered to you on completion of the program with autograph of amazing top contributors to the ecosystem.
+*Grow from zero to hero and become an expert in the domain and also certificate will be offered to you on completion of the program with autograph of amazing top contributors to the ecosystem*
 
 ## Who is the challenge made for?
 - Beginners, and
