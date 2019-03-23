@@ -6,7 +6,7 @@
 
 *Hashtag @100daysofdscode*
 
-#### If you would love to have the doc of this curriculum and a breakdown of each topic kindly send a mail to borisphilosophy@gmail.com using the *Subject* "100daysofdscode"
+#### If you would love to have the doc of the curriculum and a breakdown of each topic kindly send a mail to borisphilosophy@gmail.com using the *Subject* "100daysofdscode"
 
 ## Hi Folks
 
