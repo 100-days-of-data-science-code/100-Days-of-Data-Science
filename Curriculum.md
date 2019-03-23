@@ -18,8 +18,8 @@
 - ## Week 3 Intro to computing for Data Analysis
 
     - Day 11-12. Data Science Mehodology.
-    - Day 13. Data Science Terminology and Open Source tols for Data Science.
-    - Day 14 - 15. Exploraotry Data Analysis. 
+    - Day 13. Data Science Glossary and Open Source tools for Data Science.
+    - Day 14 - 15. Exploratory Data Analysis. 
     - Project
     
 - ## Week 4 Data Visualization
@@ -50,9 +50,9 @@
     - Project
     
 - ## Week 8 Analytics storytelling
-    - Day 36. Data Analytics Story telling
+    - Day 36. Data Analytics Storytelling
     - Day 37-38. Ethic and laws of Data and Analytics.
-    - Day 39-40. Working in an Data oriented company .
+    - Day 39-40. Working in an Data oriented company.
     - Project
 
 - ## Week 9 Deep Learning
