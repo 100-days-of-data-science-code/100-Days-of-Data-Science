@@ -1,4 +1,5 @@
 # Curriculum
+#### If you would love to have the doc of the curriculum or a breakdown of each topic kindly send a mail to borisphilosophy@gmail.com using the *Subject* "100daysofdscode"
 
 - ## Week 1 Python for Data Science 
 
