@@ -38,4 +38,5 @@ Aim: At the end of this code challenge you will be able to
 ## Disclaimer
 - This curriculum will be updated regularly.
 
-
+## List of people who has reviewed this Curriculum will be uploaded shortly
+*Stay Updated
