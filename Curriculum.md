@@ -39,7 +39,7 @@
     - Day 25. Machine Learning Workshop 3(Clustering)
     - Project
 
-- ## Week 6 Solving Zindi and Kaggle Challenge( Santander Customer Transaction Prediction, Kaggle Carreer Con)
+- ## Week 6 Solving Zindi and Kaggle Challenge( Santander Customer Transaction Prediction, Kaggle Career Con)
     - Santander Customer Transaction Prediction
     - Predicting Future Sales
     - Data Science Loan Prediction Challenge
@@ -80,7 +80,7 @@
     - Day 80. Mapreduce design pattern
     - Day 71-75. Project
     
-- ## Week 16 Solve a Kaggle / Zindi chanllege
+- ## Week 16 Solve a Kaggle / Zindi challenge
     -Project
 
 - ## Week 17 Web scraping 
