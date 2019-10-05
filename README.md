@@ -7,7 +7,7 @@
 Kindly sunscribe to my newsletter [Click here to Subscribe](https://www.getrevue.co/profile/DataKnight) and i will surely send you a gift 
 
 
-*Hashtag @100daysofdscode*
+*Hashtag #100daysofdscode*
 
 #### If you would love to have the doc of the curriculum and a breakdown of each topic kindly send a mail to knightdata2@gmail.com using the *Subject* "100daysofdscode"
 
