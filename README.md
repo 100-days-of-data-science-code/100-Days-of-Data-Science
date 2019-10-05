@@ -39,8 +39,8 @@ Aim: At the end of this code challenge you will be able to
 ## Timeframe = 1hours every day and 5 days in a week
 
 This Program is brought to you by [DataKnight](Twitter.com/emeka_boris)
-### Support or become a patreon and recieve awesome gift from Africa Data Scientist 
-[Click here(https://www.getrevue.co/profile/DataKnight) to become a patreon)
+#### Support or become a patreon and recieve awesome gift from Africa Data Scientist 
+[Click here](https://www.getrevue.co/profile/DataKnight) to become a patreon
 
 ## Disclaimer
 - This curriculum will be updated regularly.
