@@ -1,12 +1,15 @@
 # 100 Days of Data Science code.
 
-*All Contents,Articles and Tutorials are found here (www.medium.com/100daysofdscode)*
+*All Contents,Articles and Tutorials are found here [Click here to view](www.medium.com/100daysofdscode)*
 
-*Find our Curriculum here (https://github.com/Emekaborisama/100daysofdscode/blob/master/Curriculum.md)*
+*Find our Curriculum here [Click here to view](https://github.com/Emekaborisama/100daysofdscode/blob/master/Curriculum.md)*
+
+Kindly sunscribe to my newsletter [Click here to Subscribe](https://www.getrevue.co/profile/DataKnight) and i will surely send you a gift 
+
 
 *Hashtag @100daysofdscode*
 
-#### If you would love to have the doc of the curriculum and a breakdown of each topic kindly send a mail to borisphilosophy@gmail.com using the *Subject* "100daysofdscode"
+#### If you would love to have the doc of the curriculum and a breakdown of each topic kindly send a mail to knightdata2@gmail.com using the *Subject* "100daysofdscode"
 
 ## Hi Folks
 
@@ -35,8 +38,12 @@ Aim: At the end of this code challenge you will be able to
 
 ## Timeframe = 1hours every day and 5 days in a week
 
+This Program is brought to you by [DataKnight](Twitter.com/emeka_boris)
+## Support or become a patreon and recieve awesome gift from Africa Data Scientist [Click here] (https://www.getrevue.co/profile/DataKnight) to become a patreon
+
 ## Disclaimer
 - This curriculum will be updated regularly.
 
 ## List of people who has reviewed this Curriculum will be uploaded shortly
-*Stay Updated
+[Mat Leonard](https://twitter.com/MatDrinksTea)- Ex Udacity Lead, School of Data
+Contribution - (Add Apache Spark) 
