@@ -1,12 +1,12 @@
 # Curriculum
-#### If you would love to have the doc of the curriculum or a breakdown of each topic kindly send a mail to borisphilosophy@gmail.com using the *Subject* "100daysofdscode"
+#### If you would love to have the doc of the curriculum or a breakdown of each topic kindly send a mail to knightdata2@gmail.com using the *Subject* "100daysofdscode"
 
 - ## Week 1 Python for Data Science 
 
-    - Day 1. Introduction on Python for Data Science and Why Data Scientist should use Python.
+    - Day 1. Introduction on Python for Data Science and Why Data Scientists uses Python.
     - Day 2. Market Potential for Python,5 industries that make effective use of their data, and OOP (object-oriented programming).
     - Day 3. The Basic of Python
-    - Day 4-5. Python Libraries for Data Science 
+    - Day 4-5. Intro to Python Libraries for Data Science 
     - Project
     
 - ## Week 2 Statistics and probability(Maths for Data Science)
@@ -18,16 +18,14 @@
     
 - ## Week 3 Intro to computing for Data Analysis
 
-    - Day 11-12. Data Science Mehodology.
-    - Day 13. Data Science Glossary and Open Source tools for Data Science.
-    - Day 14 - 15. Exploratory Data Analysis. 
+    - Day 11. Data Science Mehodology.
+    - Day 12-15 Advanced Python Libraries for Data Science (Practical)
     - Project
     
-- ## Week 4 Data Visualization
+- ## Week 4 Exploratory Data Analysis
 
-    - Day 16-17. Introduction to Data Visualization Tools.
-    - Day 18-19. Advanced Visualizations and Geospatial Data
-    - Day 20. Kepler.gl
+    - Day 16. Intro to EDA
+    - Day 19-20. Advanced Visualizations using Data Studio
     - Project 
     
 - ## Week 5 Machine Learning
