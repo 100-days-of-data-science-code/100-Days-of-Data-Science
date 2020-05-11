@@ -40,7 +40,7 @@ Aim: At the end of this code challenge you will be able to
 
 This Program is brought to you by [DataKnight](Twitter.com/emeka_boris)
 #### Support or become a patreon and recieve awesome gift from Africa Data Scientist 
-[Click here](https://www.getrevue.co/profile/DataKnight) to become a patreon
+[Click here](https://www.patreon.com/DataKnight) to become a patreon
 
 ## Disclaimer
 - This curriculum will be updated regularly.
