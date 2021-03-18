@@ -9,7 +9,7 @@ Kindly sunscribe to my newsletter [Click here to Subscribe](https://www.getrevue
 
 *Hashtag #100daysofdscode*
 
-#### If you would love to have the doc of the curriculum and a breakdown of each topic kindly send a mail to knightdata2@gmail.com using the *Subject* "100daysofdscode"
+#### If you would love to have the doc of the curriculum and a breakdown of each topic kindly book a career call with me https://www.buymeacoffee.com/emekaboris/e/25186 or send me an email to knightdata2@gmail.com using the *Subject* "100daysofdscode"
 
 ## Hi Folks
 
