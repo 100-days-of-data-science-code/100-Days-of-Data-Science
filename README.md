@@ -47,4 +47,3 @@ This Program is brought to you by [DataKnight](Twitter.com/emeka_boris)
 
 ## List of people who has reviewed this Curriculum will be uploaded shortly
 [Mat Leonard](https://twitter.com/MatDrinksTea)- Ex Udacity Lead, School of Data
-Contribution - (Add Apache Spark) 
